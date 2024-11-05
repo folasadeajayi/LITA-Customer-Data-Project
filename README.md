@@ -21,3 +21,6 @@ The primary source of the Data used for the Project here is the Customer Data.cs
 - SQL- Structured Query Language for quering data
 - Power BI for Data Analysis and Visualization
 - GitHub for Portfolio Building
+
+  ### Data Cleaning and Preparation
+  ---

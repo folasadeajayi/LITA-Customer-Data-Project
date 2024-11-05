@@ -3,6 +3,14 @@
 
 ### Projecct Title: Capstone Customer Data Analysis
 ---
+Project Overview
+Data Sources
+Tools Used
+Exploratory Data Analysis
+Data Cleaning and Preparation
+Data Analysis
+Calculations and Pivot Tables
+
 ### Project Overview
 ---
 This Customer Data Analysis Project collected and analyze the Data from the Customer segmentation for a subscription service to generate insights into the segments and trends. The goal is to understand customer behavior, tract the subscription types and analyze the subscription pattern which helps to tell compelling stories around the Data.
@@ -55,6 +63,8 @@ WHERE SUBSCRIPTION TYPE = BASIC
 ![CUSTOMER DATA PIVOT TABLE](https://github.com/user-attachments/assets/d519cb54-f53b-4f61-b671-4c170141581a)
 
 
+### Visualization
+---
 
 ![CAPSTONE PROJECT CUSTOMER DATA DASHBOARD](https://github.com/user-attachments/assets/99063e49-4269-4f8d-a25f-1818033c075a)
 

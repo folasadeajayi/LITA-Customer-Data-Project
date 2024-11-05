@@ -13,7 +13,7 @@ The primary source of the Data used for the Project here is the Customer Data.cs
 
 ### Tools Used
 ---
-- Microsoft Excel
+- Microsoft Excel[Download Here](https://www.microsoft.com)
 1. For Data cleaning
 2. For Data Analysis
 3. For Data Visualization
@@ -24,3 +24,7 @@ The primary source of the Data used for the Project here is the Customer Data.cs
 
   ### Data Cleaning and Preparation
   ---
+  In the initial phase of the Data cleaning and preparations, the following actions were performed.
+  1. Data loading and inspection
+  2. Handling missing varriables
+  3. Data cleaning and formatting

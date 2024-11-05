@@ -51,10 +51,13 @@ WHERE SUBSCRIPTION TYPE = BASIC
 ![CUSTOMER DATA EXCEL CALCULATIONS](https://github.com/user-attachments/assets/ebc7f304-240f-4d68-b8a1-e21f536cfe72)
 
 
+
 ![CUSTOMER DATA PIVOT TABLE](https://github.com/user-attachments/assets/d519cb54-f53b-4f61-b671-4c170141581a)
 
 
+
 ![CAPSTONE PROJECT CUSTOMER DATA DASHBOARD](https://github.com/user-attachments/assets/99063e49-4269-4f8d-a25f-1818033c075a)
+
 
 
 ![CAPSTONE PROJECT CUSTOMER DATA VISUALIZATION](https://github.com/user-attachments/assets/7d5133a1-7a59-476a-8742-f579f5f4a728)

@@ -3,13 +3,24 @@
 
 ### Projecct Title: Capstone Customer Data Analysis
 ---
-Project Overview
-Data Sources
-Tools Used
-Exploratory Data Analysis
-Data Cleaning and Preparation
-Data Analysis
-Calculations and Pivot Tables
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Data Analysis](#data-analysis)
+
+[Calculations and Pivot Tables](#calculations-and-pivot-tables)
+
+[Inferences](#inferences)
+
+[Conclusions](#conclusions)
+
 
 ### Project Overview
 ---
@@ -71,3 +82,19 @@ WHERE SUBSCRIPTION TYPE = BASIC
 
 
 ![CAPSTONE PROJECT CUSTOMER DATA VISUALIZATION](https://github.com/user-attachments/assets/7d5133a1-7a59-476a-8742-f579f5f4a728)
+
+
+### Inferences
+---
+- Region/Subscription Type
+  1. The East an the North Region both subscribed for the Basic subscription type while the South region goes for the premium and the West was the standard subscription type. The Average  subscription duration was 365.
+  2. The most popular subscription duration was Basic with the highest subscription count of 16,921 as against both the premium and standard with 8,446 and 8,420 counts respectively.
+
+- Region/Revenue
+   
+  There was no significant difference in the revenue from all the regions but there was a great difference the Revenue from the subscription types with the Basic having 50% of the Revenue while the Premium and the Standard are both 255 each.
+
+  ### Conclusions
+  ---
+- Basic was the most popular subscription type, therefore it should be made readily available for the subscribers in order to maintain and increase the Revenue flows in the Regions
+- Efforts should be put in place to increase the Revenue and the subscription counts across the Regions.
